@@ -1,4 +1,4 @@
-### hi there. my name is bass. 🐟
+### hi there. my name is bash. 🐟
 
 💻 working on a computer science degree
 
